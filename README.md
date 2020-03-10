@@ -18,4 +18,8 @@ Diretório criando para agrupar series de ferramentas de edição de vídeo (Ado
 
 - https://www.youtube.com/audiolibrary/music?nv=1
 
+# técnica de hypelapse
+
+https://www.youtube.com/watch?v=eWtBHi-AcYE
+
 
