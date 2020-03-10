@@ -22,4 +22,7 @@ Diretório criando para agrupar series de ferramentas de edição de vídeo (Ado
 
 https://www.youtube.com/watch?v=eWtBHi-AcYE
 
+# Modelo de vídeo
+https://www.youtube.com/watch?v=u-C5tdfnov4
+
 
