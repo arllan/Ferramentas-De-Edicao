@@ -1,4 +1,4 @@
-# Ferramentas de edicao
+# Ferramentas De Edição
 Diretório criando para agrupar series de ferramentas de edição de vídeo (Adobe Premiere e Adobe After Effects )  
 
 # BANCO DE IMAGENS E VÍDEOS
@@ -55,5 +55,5 @@ Quanto maior intervalo de tempo de uma foto para outra mais demorado vai ficar p
 
 ![alt text](https://github.com/arllan/Ferramentas-De-Edicao/blob/master/velocidade-1.gif)
 
-quanto mais tempo de intervalo maior vao ficar o movimento de um elemento com os outros
+quanto mais tempo de intervalo maior vai ficar o movimento de um elemento com os outros
 
